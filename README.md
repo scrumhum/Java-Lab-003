@@ -27,6 +27,12 @@ Scanner scanner = new Scanner(System.in);.
     * After the enter key is pressed, your program should print the string typed by the user, initially you, concatenated to the String variable *domo*.
     * See [Oracle's Scanner Javadoc](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html) to read all the data types Scanner can read (You want to read a String)
         * Hint: you're looking for a method -> *nexLine*
+    * Output should look something like this:
+    ```
+    My name is Mr. Roboto, are you Kilroy?
+    no, I'm stan
+    Domo arigato no, I'm stan
+    ```
 
 ### Part 2 - Temperature Conversion 
 
