@@ -29,8 +29,7 @@ Scanner scanner = new Scanner(System.in);.
         * Hint: you're looking for a method -> *nexLine*
     * Output should look something like this:
     ```
-    My name is Mr. Roboto, are you Kilroy?
-    no, I'm stan
+    My name is Mr. Roboto, are you Kilroy? no, I'm stan
     Domo arigato no, I'm stan
     ```
 

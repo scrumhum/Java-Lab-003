@@ -13,7 +13,7 @@ public class MrRoboto {
         // Concatenate the user response to this String.
         String domo = "Domo arigato ";
 
-        System.out.println("My name is Mr. Roboto, are you Kilroy? ");
+        System.out.print("My name is Mr. Roboto, are you Kilroy? ");
         // Write your program here
     }
 }
