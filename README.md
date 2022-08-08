@@ -3,7 +3,7 @@
 Objectives
 
 * Write a program that reads text typed by a person.
-* Understand Precedence and Parentheses as well as when to user integers or floating point numbers in calculations.
+* Understand Precedence and Parentheses as well as when to use integers or floating point numbers in calculations.
 * See why using formatting for console output is preferable to concatenation.
  
 ### Part 1 - Reading Input - MrRoboto.java - [Mr. Roboto Official Video](https://www.youtube.com/watch?v=uc6f_2nPSX8)
