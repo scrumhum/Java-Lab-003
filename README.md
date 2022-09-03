@@ -11,7 +11,7 @@ Objectives
 * Input is text typed by a person and read by a program.
 * Input is always read as a string
 * Java provides the Scanner class to aid reading input, but it must be imported into your program to use it.
-* Library imports belong at the top of your java/class files befor ethe class definition. The Scanner import is shown below.
+* Library imports belong at the top of your java/class files before the class definition. The Scanner import is shown below.
 ```
 import java.util.Scanner;
 ```
