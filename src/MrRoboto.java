@@ -15,5 +15,9 @@ public class MrRoboto {
 
         System.out.print("My name is Mr. Roboto, are you Kilroy? ");
         // Write your program here
+        String no = scanner.nextLine();
+        System.out.printf("no, I'm %s%n", no);
+        System.out.printf("Domo arigato no, I'm %s%n", no);
+        System.out.println(domo);
     }
 }
